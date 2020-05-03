@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_data">No data</string>
+    <string name="submit_btn">Submit</string>
+    <string name="token_hint">API token</string>
+    <string name="language_hint">Language code</string>
+    <string name="retry_btn">Retry</string>
+
+    <string name="app_name">Popular Movies</string>
+
+    <string name="error_string">There was an error. Tap here to retry</string>
+    <string name="no_results">No movies found</string>
+
+    <!-- Detail Activity-->
+    <string name="detail_release_date_label">Release date:</string>
+    <string name="detail_plot_label">Plot:</string>
+    <string name="detail_rating_label">Rating:</string>
+    <string name="detail_rating_out_of">%s/10</string>
+    <string name="detail_the_movie_poster">This image shows the movie poster</string>
+    <string name="detail_trailers">Trailers</string>
+    <string name="detail_reviews">Reviews</string>
+    <string name="details_play_trailer_description">Click here to play the trailer on YouTube</string>
+    <string name="detail_review_by">Review by</string>
+    <string name="menu_entry_show_popular_movies">Show popular movies</string>
+    <string name="menu_entry_show_top_rated_movies">Show top rated movies</string>
+    <string name="menu_entry_show_favorite_movies">Show favorite movies</string>
+    <string name="details_activity_menu_toggle_fav">Add to favourites</string>
+    <string name="details_activity_menu_toggle_unfav">Remove from favourites</string>
+</resources>
